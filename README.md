@@ -23,8 +23,8 @@ The Community Collaborator app is a platform designed to facilitate collaboratio
 
 ## Features
 
-- _**Create Communities**_: Users can create communities for specific projects or interests.
-- 
+_-**Create Communities**_: Users can create communities for specific projects or interests.
+
 _- **Invite Members**_: Community creators can invite others to join their community by sending invitations.
 
 _- **Announcement Creation**:_ Users can create announcements within communities to request participation in tasks or projects.

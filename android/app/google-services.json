@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736969432001",
+    "project_id": "fanme-6ca61",
+    "storage_bucket": "fanme-6ca61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736969432001:android:1fd3d689369c75ec3c2d40",
+        "android_client_info": {
+          "package_name": "com.example.fanme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeA3fzwVAQkRnt0zKPo_12cEA7-ihQ7JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

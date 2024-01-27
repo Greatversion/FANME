@@ -23,12 +23,12 @@ The Community Collaborator app is a platform designed to facilitate collaboratio
 
 ## Features
 
-- **Create Communities**: Users can create communities for specific projects or interests.
-- **Invite Members**: Community creators can invite others to join their community by sending invitations.
-- **Announcement Creation**: Users can create announcements within communities to request participation in tasks or projects.
-- **Task Assignments**: Once an announcement is made, users can volunteer for tasks and collaborate with others within the community.
-- **App Lock Functionality**: To promote focus and productivity, users can lock distracting apps on their devices. Access to locked apps is granted only when all participants agree and confirm completion of their tasks.
-- **Collaborative Trust System**: The app implements a trust system where participants must collectively grant access to locked apps based on the completion of tasks and mutual trust within the community.
+- _**Create Communities_**: Users can create communities for specific projects or interests.
+_- **Invite Members**_: Community creators can invite others to join their community by sending invitations.
+_- **Announcement Creation**:_ Users can create announcements within communities to request participation in tasks or projects.
+_- **Task Assignments**:_ Once an announcement is made, users can volunteer for tasks and collaborate with others within the community.
+_- **App Lock Functionality**:_ To promote focus and productivity, users can lock distracting apps on their devices. Access to locked apps is granted only when all participants agree and confirm completion of their tasks.
+_- **Collaborative Trust System**:_ The app implements a trust system where participants must collectively grant access to locked apps based on the completion of tasks and mutual trust within the community.
 
 ## Installation
 

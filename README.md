@@ -43,13 +43,13 @@ To run the Community Collaborator app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/community-collaborator-app.git
+   git clone https://github.com/your-username/fanme.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd community-collaborator-app
+   cd fanme-app
    ```
 
 3. Install dependencies:

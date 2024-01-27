@@ -1,8 +1,8 @@
 import 'package:fanme/AnimationsNav/slide.dart';
-import 'package:fanme/Frontend/allApps.dart';
-import 'package:fanme/Frontend/allCommunities.dart';
-import 'package:fanme/Frontend/feedback.dart';
-import 'package:fanme/loginScreen.dart';
+import 'package:fanme/Frontend/Screens/allApps.dart';
+import 'package:fanme/Frontend/Screens/allCommunities.dart';
+import 'package:fanme/Frontend/Screens/feedback.dart';
+import 'package:fanme/Services/loginScreen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

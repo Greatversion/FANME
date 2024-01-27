@@ -1,10 +1,10 @@
 import 'package:fanme/AnimationsNav/slide.dart';
 import 'package:fanme/Frontend/Reusable-frontEnd/cardList.dart';
-import 'package:fanme/Frontend/promocard.dart';
+import 'package:fanme/Frontend/Screens/promocard.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:fanme/Frontend/Reusable-frontEnd/drawerCustom.dart';
-import 'package:fanme/Frontend/allCommunities.dart';
+import 'package:fanme/Frontend/Screens/allCommunities.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();

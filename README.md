@@ -18,6 +18,7 @@ The Community Collaborator app is a platform designed to facilitate collaboratio
 ## Tech Stack
 
 - **Flutter**: Frontend framework for building the mobile application.
+- **kotlin/java**:For accessing the android apis for native coding.
 - **Firebase**: Backend service for handling authentication, database management (Firestore), and cloud storage.
 - **SQLite**: Local database for storing app lock settings and user preferences.
 

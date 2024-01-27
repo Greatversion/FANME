@@ -1,4 +1,5 @@
-# FANME (Friends are no more Enemies) - A collaborative Community based Application
+# FANME (Friends are no more Enemies) 
+A collaborative Community based Application
 
 ## Table of Contents
 

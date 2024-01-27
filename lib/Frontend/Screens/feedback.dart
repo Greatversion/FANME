@@ -21,7 +21,7 @@ class _FeedbackFormState extends State<FeedbackForm> {
           style: GoogleFonts.kanit(
               color: Colors.white, fontWeight: FontWeight.bold),
         ),
-        backgroundColor: const Color.fromARGB(255, 188, 16, 4),
+        backgroundColor: const Color.fromARGB(255, 200, 93, 0),
       ),
       body: Container(
         decoration: const BoxDecoration(color: Colors.black),

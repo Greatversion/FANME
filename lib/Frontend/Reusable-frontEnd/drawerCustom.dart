@@ -2,7 +2,7 @@ import 'package:fanme/AnimationsNav/slide.dart';
 import 'package:fanme/Frontend/Screens/allApps.dart';
 import 'package:fanme/Frontend/Screens/allCommunities.dart';
 import 'package:fanme/Frontend/Screens/feedback.dart';
-import 'package:fanme/Services/loginScreen.dart';
+// import 'package:fanme/Services/loginScreen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -103,14 +103,6 @@ class _DrawerCustomState extends State<DrawerCustom> {
             ),
             onTap: () {
               // Add your onTap logic for 'Settings' here
-              Navigator.of(context).push(
-                SlidePageRoute(
-                  builder: (context) {
-                    // Return the widget for the new screen here
-                    return const CommunityPage();
-                  },
-                ),
-              );
             },
           ),
           ListTile(

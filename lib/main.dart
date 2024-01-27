@@ -1,15 +1,10 @@
 // import 'package:device_apps/device_apps.dart';
-
-import 'package:apptex_chat/apptex_chat.dart';
-
 import 'package:fanme/Frontend/Screens/allApps.dart';
 import 'package:fanme/Frontend/Screens/allCommunities.dart';
 import 'package:fanme/Frontend/Screens/feedback.dart';
 import 'package:fanme/Services/loginCheck.dart';
 import 'package:fanme/Frontend/Screens/mainScreen.dart';
-
 import 'package:fanme/Services/loginScreen.dart';
-// import 'package:fanme/Frontend/screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
